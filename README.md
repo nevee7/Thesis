@@ -1,9 +1,4 @@
-# Thesis
-INTELLIGENT FEEDING AND ACCESS SYSTEM FOR CATS
-
 # Intelligent Feeding and Access System for Cats
-
-Bachelor thesis project by Neve Magnani.
 
 This repository contains the source code and configuration files for an intelligent feeding and access system for cats. The system uses a Raspberry Pi 5 as the main control unit, a web camera for cat detection with YOLOv8, a relay-driven solenoid for door access, a PIR motion sensor for presence detection, an LED strip for ambient lighting, an SG90 servo motor for food dispensing, MQTT for communication, and a Node-RED dashboard for manual control and monitoring.
 
